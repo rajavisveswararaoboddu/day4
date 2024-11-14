@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<img src="./ASSETS/IMAGES/download.jpeg"alt= "what image  
+ height="200" width="200">
+<a href="./ASSETS/IMAGES/pic.jpg.jpg" download="visva">download</a>
+<video audio controls loop muted autoplay poster>
+    <source src="../ASSETS/VIDEOS/Hungry Cheetah  - OG Glimpse _ Pawan Kalyan _ Sujeeth _ Thaman S _ DVV Danayya - DVV Entertainment (360p, h264, youtube).mp4">
+</video>
+</body>
+</html>
